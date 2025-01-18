@@ -1,0 +1,10 @@
+[package]
+name = "boltshell"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctrlc = "3.2"
+whoami = "1.2"
+dirs = "5.0"
+chrono = "0.4"
