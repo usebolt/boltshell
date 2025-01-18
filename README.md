@@ -40,7 +40,7 @@ Precompiled binaries will be available soon for easier installation. Stay tuned!
 
 Once installed, launch Bolt Shell by running the following command:
 ```powershell
-bolt
+boltshell
 ```
 
 ### Basic Commands
