@@ -50,7 +50,7 @@ boltshell
 - Exit the shell: `exit`
 
 ### Prompt
-Bolt Shell features a dynamic prompt displaying the current user, hostname, and working directory, with visual distinctions for home (`~`) and root (`#`) directories.
+Bolt Shell features a dynamic prompt displaying the current user, hostname, and working directory.
 
 ## Contributing
 
