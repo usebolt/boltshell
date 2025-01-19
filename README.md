@@ -17,6 +17,12 @@ Bolt Shell is a modern, lightweight, and efficient terminal shell designed for d
 
 ## Installation
 
+### Via Cargo
+1. Simply run the following command:
+```powershell
+cargo install boltshell
+```
+
 ### From Source
 1. Ensure you have Rust installed on your system. If not, download it from [rust-lang.org](https://www.rust-lang.org/).
 2. Clone the repository:
