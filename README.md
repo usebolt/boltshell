@@ -11,7 +11,7 @@ Bolt Shell is a modern, lightweight, and efficient terminal shell designed for d
 ## Key Features
 
 - **Fast and Lightweight**: Optimized for speed and minimal resource usage.
-- **Windows Support**: Currently available for Windows systems (for now).
+- **Cross-platform support**: Works for Windows, and Linux (with Mac testing ongoing)
 - **User-Friendly**: Includes commands suitable for beginners and power users alike.
 - **Safety First**: Built with Rust to minimize crashes and memory-related bugs.
 
@@ -55,8 +55,11 @@ boltshell
 - Execute programs: `program_name [arguments]`
 - Exit the shell: `exit`
 
+### More Commands
+Listed when running `help`
+
 ### Prompt
-Bolt Shell features a dynamic prompt displaying the current user, hostname, and working directory, with visual distinctions for home (`~`) and root (`#`) directories.
+Bolt Shell features a dynamic prompt displaying the current user, hostname, and working directory.
 
 ## Contributing
 
@@ -87,3 +90,5 @@ Special thanks to the Rust community for providing incredible tools and resource
 ---
 
 **Start using Bolt Shell today and experience the power of Rust in your terminal!**
+
+Please note that the crates.io readme is outdated.
